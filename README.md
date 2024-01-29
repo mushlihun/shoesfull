@@ -1,4 +1,4 @@
-# shoes_shop
+# shoes_shop Backend
 
 Building multivendor store for sneakers with web admin.
 Use flutter run --web-renderer html or flutter build web --release --web-renderer html
@@ -8,11 +8,6 @@ The store app has two sections
 2. Vendor
 
 ## 📸 Screenshots
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/home_view.png)
-
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/screen1.png)
-
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/store_dash.png)
 
 ![ShopAdmin](https://github.com/mushlihun/shoesfull/blob/master/screenshots/1.png)
 
@@ -32,7 +27,7 @@ The store app has two sections
 
 
 It is controlled by a shop web admin currently being built with Flutter also which is at
-- [ShopWebAdmin](https://github.com/mushlihun/shoesfull)
+- [ShopApp](https://github.com/mushlihun/shoesfull/frontend)
 
 Both are built using Modern UI/UX and MVC architecture
 
