@@ -6,11 +6,11 @@ The store app has two sections
 1. User
 2. Vendor
 
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/home_view.png)
+![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/frontends/screenshots/home_view.png)
 
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/screen1.png)
+![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/frontends/screenshots/screen1.png)
 
-![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/shoes_store/screenshots/store_dash.png)
+![ShopApp](https://github.com/mushlihun/shoesfull/blob/master/frontends/screenshots/store_dash.png)
 
 ## 🤓 Author
 
