@@ -6,11 +6,9 @@ The store app has two sections
 1. User
 2. Vendor
 
-<img src="screenshots/home_view.png" width="220">
-
-<img src="screenshots/screen1.png" width="220">
-
-<img src="screenshots/store_dash.png" width="220">
+<img src="screenshots/home_view.png" width="220">&nbsp;
+<img src="screenshots/store_dash.png" width="220">&nbsp;
+<img src="screenshots/screen1.png">
 
 ## 🤓 Author
 
