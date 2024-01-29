@@ -27,7 +27,7 @@ The store app has two sections
 
 
 It is controlled by a shop web admin currently being built with Flutter also which is at
-- [ShopApp](https://github.com/mushlihun/shoesfull/frontends)
+- [ShopApp](https://github.com/mushlihun/shoesfull/tree/master/frontends)
 
 Both are built using Modern UI/UX and MVC architecture
 
